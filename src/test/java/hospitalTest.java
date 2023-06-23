@@ -22,4 +22,5 @@ public class hospitalTest {
         assertEquals(response.getMessage(), successMessage);
 
     }
+
 }

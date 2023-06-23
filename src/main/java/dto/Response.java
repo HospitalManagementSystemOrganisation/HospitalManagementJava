@@ -11,6 +11,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Response {
     private String email;
-    private String password;
+
     private String message;
 }
