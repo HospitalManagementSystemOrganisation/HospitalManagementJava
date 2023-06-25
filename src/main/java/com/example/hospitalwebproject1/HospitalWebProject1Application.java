@@ -11,7 +11,7 @@ public class HospitalWebProject1Application {
 //   static PatientController patientController = new E_PatientController();
     public static void main(String[] args){
         SpringApplication.run(HospitalWebProject1Application.class, args);
-
+//
 //        System.out.println(patientController.registerNewPatient(Request.builder()
 //                .email("email@gmail.com")
 //                .password("Benjamin12.COM")
